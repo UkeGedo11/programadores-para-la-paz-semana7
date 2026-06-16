@@ -1,0 +1,8 @@
+Prueba de reportes.
+
+Cuando se realiza una peticion GET a /reportes, el servidor devuelve un array con todos los
+reportes almacenados en memoria. Al inicio, el array se encuentra vacio porque no hay datos
+registrados. Despues de enviar un reporte usando POST /reportes, este se guarda en el array 
+reportes. Al volver a hacer GET /reportes, se puede ver el listado actualizado con los reportes 
+enviados, esto permite verificar que los datos están siendo almacenados temporalmente mientras 
+el servidor está activo.

@@ -1,0 +1,10 @@
+Reflexion.
+
+Permitir que las comunidades registren y consulten reportes en una plataforma tecnológica es 
+muy importante, debido a que esto facilita la comunicación entre ciudadanos y administradores.
+Los problemas se pueden registrar de manera rápida y organizada. Además, se reduce la pérdida 
+de información y los reportes no dependen de mensajes informales. Las APIs permiten que estos 
+datos se compartan entre diferentes sistemas, lo que mejora la eficiencia en la respuesta a 
+problemas comunitarios. También ayuda a priorizar situaciones urgentes según los reportes 
+registrados. Con el tiempo, estos datos pueden usarse para análisis y mejora de la comunidad.
+En general, estas herramientas hacen que la gestión comunitaria sea más transparente y eficiente.
